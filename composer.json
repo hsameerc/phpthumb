@@ -1,0 +1,21 @@
+{
+    "name": "hsameerc/phpthumb",
+    "description": "Easy thumbnailing in Laravel 5",
+    "keywords": ["laravel", "phpthumb", "thumbnail"],
+    "authors": [
+        {
+            "name": "Sameer Humagain",
+            "email": "im@hsameer.com.np"
+        }
+    ],
+    "require": {
+        "php": ">=5.3.0",
+        "illuminate/support": "~4"
+    },
+    "autoload": {
+        "psr-0": {
+            "Hsameerc\\Phpthumb": "src/"
+        }
+    },
+    "minimum-stability": "stable"
+}
